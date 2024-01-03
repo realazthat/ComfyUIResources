@@ -8,7 +8,9 @@ PATH_TO_THEME=$PWD/monospace-andrewboring
 
 bash scripts/format.sh
 
+cd "$PATH_TO_SITE"
 pelican \
+  -s publishconf.py \
   -t "$PATH_TO_THEME" \
   "$PATH_TO_SITE" 
 

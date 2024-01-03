@@ -40,5 +40,5 @@ DEFAULT_PAGINATION = 10
 
 # THEME = str(Path(pelican.__path__[0]) / 'themes/notmyidea')
 
-# CURRENT_DIR = os.path.dirname(os.path.abspath(__file__))
-# THEME = os.path.join(CURRENT_DIR, 'monospace-andrewboring')
+CURRENT_DIR = os.path.dirname(os.path.abspath(__file__))
+THEME = os.path.join(CURRENT_DIR, 'monospace-andrewboring')
