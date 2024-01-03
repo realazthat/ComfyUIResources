@@ -3,7 +3,7 @@ import os
 
 AUTHOR = 'realz'
 SITENAME = 'Random ComfyUI Notes'
-SITEURL = ""
+SITEURL = "https://realazthat.github.io/ComfyUIResources/"
 
 PATH = "content"
 
