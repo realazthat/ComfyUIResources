@@ -5,4 +5,4 @@ GITHUB_PAGES_BRANCH=gh-pages
 OUTPUTDIR=site/output
 
 ghp-import -b $GITHUB_PAGES_BRANCH -m "Generate Pelican site" "$OUTPUTDIR"
-git push origin $(GITHUB_PAGES_BRANCH)
+git push origin $GITHUB_PAGES_BRANCH
