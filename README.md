@@ -73,6 +73,11 @@ Recommended to mute the rest of the discord, unless you decide to participate.
     gallery, can generate 10 images at once, (good for quick iteration).
   - Invite: linked in
     [github.com/invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI).
+- `[Tool][Discord: 1182768218079772672]` (ENFUGUE).
+  - Site:
+    [github.com/painebenjamin/app.enfugue.ai](https://github.com/painebenjamin/app.enfugue.ai),
+  - Another interesting UI for Stable Diffusion and an ecosystem of tools. Very
+    interesting interface.
 - `[Service][Discord: 1069381916492562582]` (Suno).
   - Site: [app.suno.ai](https://app.suno.ai/) (Home:
     [suno.ai](https://suno.ai)).
