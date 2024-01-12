@@ -36,6 +36,8 @@ Recommended to mute the rest of the discord, unless you decide to participate.
     Models, many image models/forks are hosted on this server instead of
     HuggingFace.
   - Features a cloud generative interface, similar to Invoke (which is local).
+  - Workflow feed: **(NSFW warning)**
+    [Workflow feed](https://civitai.com/articles?view=feed&tags=127048).
 - `[News][Discord: 944132583170654251]` (Machine Learning News) AKA
   MarketTechPost.
   - Site: [marktechpost.com](https://marktechpost.com).
