@@ -25,11 +25,7 @@ Recommended to mute the rest of the discord, unless you decide to participate.
   - Publishes: on banodoco discord.
   - Example: Published 'Through the emotions' workflow on banodoco
     ([direct message link to announcement](https://discord.com/channels/1076117621407223829/1138790534987661363/1189739492253372436)).
-- `[News][Workflows][Discord: 1160495048950038589]` (ComfyUI Workflows).
-  - Site: [comfyworkflows.com](https://comfyworkflows.com/).
-  - A popular hub for workflows, very nice gallery to learn techniques, inspire,
-    and fork from.
-- `[Hub][Workflows][Service][Discord: 1037799583784370196]` (Civitai).
+- `[Hub][Gallery][Workflows][Service][Discord: 1037799583784370196]` (Civitai).
   - Site: [civitai.com](https://civitai.com/).
   - {Image,Prompt,Workflow,Model} {Gallery,Hub} to {search, view, download,
     fork, inspire, learn}, the "{Github,HuggingFace}" of Generative Image
@@ -38,6 +34,14 @@ Recommended to mute the rest of the discord, unless you decide to participate.
   - Features a cloud generative interface, similar to Invoke (which is local).
   - Workflow feed: **(NSFW warning)**
     [Workflow feed](https://civitai.com/articles?view=feed&tags=127048).
+- `[Gallery][Workflows][Discord: 1160495048950038589]` (ComfyUI Workflows).
+  - Site: [comfyworkflows.com](https://comfyworkflows.com/).
+  - A popular gallery for workflows, very nice gallery to learn techniques, inspire,
+    and fork from.
+- `[Gallery][Workflows][Service][Discord: 1009536403555750018]` (OpenArt AI).
+  - Site: [openart.ai](https://openart.ai/workflows/all), [openart.ai/workflows](https://openart.ai/workflows)
+  - Another gallery for workflows.
+  - Also has cloud services.
 - `[News][Discord: 944132583170654251]` (Machine Learning News) AKA
   MarketTechPost.
   - Site: [marktechpost.com](https://marktechpost.com).
@@ -172,8 +176,6 @@ Recommended to mute the rest of the discord, unless you decide to participate.
   - Youtube: [youtube.com/@SECourses](https://www.youtube.com/@SECourses).
   - Found from: Hiccup invite.
   - This guy was an early Stable Diffusion guy, apparently.
-- `[Discord: 1009536403555750018]` (OpenArt AI).
-  - Found from: Hiccup invite.
 - `[Youtube][LLM]`
   [youtube.com/@matthew_berman](https://www.youtube.com/@matthew_berman).
   - Found from: Hiccup invite.
