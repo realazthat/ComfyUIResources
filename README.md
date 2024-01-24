@@ -84,6 +84,9 @@ Recommended to mute the rest of the discord, unless you decide to participate.
     [github.com/painebenjamin/app.enfugue.ai](https://github.com/painebenjamin/app.enfugue.ai),
   - Another interesting UI for Stable Diffusion and an ecosystem of tools. Very
     interesting interface.
+- `[Service][Discord: 1034587473512247348]` (RunDiffusion)
+  - Site: [rundiffusion.com](https://rundiffusion.com/)
+  - ComfyUI in the cloud.
 - `[Service][Discord: 1069381916492562582]` (Suno).
   - Site: [app.suno.ai](https://app.suno.ai/) (Home:
     [suno.ai](https://suno.ai)).
