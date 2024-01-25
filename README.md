@@ -42,7 +42,9 @@ Recommended to mute the rest of the discord, unless you decide to participate.
   - Site: [openart.ai](https://openart.ai/workflows/all), [openart.ai/workflows](https://openart.ai/workflows)
   - Another gallery for workflows.
   - Also has cloud services.
-- `[News][Discord: 944132583170654251]` (Machine Learning News) AKA
+- `[Workflows][Youtube: OlivioSarikas][Discord: 752483298198028309]` (AI Revolution).
+  - Youtube: [youtube.com/@OlvioSarikas](https://youtube.com/@OlvioSarikas).
+- `[News][Tech][Discord: 944132583170654251]` (Machine Learning News) AKA
   MarketTechPost.
   - Site: [marktechpost.com](https://marktechpost.com).
   - Highly reccomend: Very good feed for latest ML results, some of which are up
@@ -194,5 +196,4 @@ Recommended to mute the rest of the discord, unless you decide to participate.
 
 - `[Discord: 1019548919274946661]` (PageBrain.ai).
 - `[Discord: 1075337975497498665]` (AI Lounge).
-- `[Discord: 752483298198028309]` (AI Revolution).
 - `[Discord: 822583790773862470]` (/dev/invest + Latent Spaces).
