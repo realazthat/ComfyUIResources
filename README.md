@@ -44,6 +44,8 @@ Recommended to mute the rest of the discord, unless you decide to participate.
   - Also has cloud services.
 - `[Workflows][Youtube: OlivioSarikas][Discord: 752483298198028309]` (AI Revolution).
   - Youtube: [youtube.com/@OlvioSarikas](https://youtube.com/@OlvioSarikas).
+- `[Workflows[Youtube: robadams2451]`
+  - Youtube: [youtube.com/@robadams2451](https://www.youtube.com/@robadams2451)
 - `[News][Tech][Discord: 944132583170654251]` (Machine Learning News) AKA
   MarketTechPost.
   - Site: [marktechpost.com](https://marktechpost.com).
