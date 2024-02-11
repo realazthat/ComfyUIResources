@@ -36,13 +36,15 @@ Recommended to mute the rest of the discord, unless you decide to participate.
     [Workflow feed](https://civitai.com/articles?view=feed&tags=127048).
 - `[Gallery][Workflows][Discord: 1160495048950038589]` (ComfyUI Workflows).
   - Site: [comfyworkflows.com](https://comfyworkflows.com/).
-  - A popular gallery for workflows, very nice gallery to learn techniques, inspire,
-    and fork from.
+  - A popular gallery for workflows, very nice gallery to learn techniques,
+    inspire, and fork from.
 - `[Gallery][Workflows][Service][Discord: 1009536403555750018]` (OpenArt AI).
-  - Site: [openart.ai](https://openart.ai/workflows/all), [openart.ai/workflows](https://openart.ai/workflows)
+  - Site: [openart.ai](https://openart.ai/workflows/all),
+    [openart.ai/workflows](https://openart.ai/workflows)
   - Another gallery for workflows.
   - Also has cloud services.
-- `[Workflows][Youtube: OlivioSarikas][Discord: 752483298198028309]` (AI Revolution).
+- `[Workflows][Youtube: OlivioSarikas][Discord: 752483298198028309]` (AI
+  Revolution).
   - Youtube: [youtube.com/@OlvioSarikas](https://youtube.com/@OlvioSarikas).
 - `[Workflows[Youtube: robadams2451]`
   - Youtube: [youtube.com/@robadams2451](https://www.youtube.com/@robadams2451)
