@@ -1,6 +1,9 @@
 
 **/__pycache__/
-.venv/
+.venv
 TODO.md
 *.pyc
-
+.vscode/
+pwnat/
+monospace-andrewboring/
+*.txt
