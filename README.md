@@ -11,8 +11,10 @@ Recommended to mute the rest of the discord, unless you decide to participate.
 
 - `[News][Workflows][Youtube: NerdyRodent]` (NerdyRodent).
   - Youtube: [youtube.com/c/NerdyRodent](https://www.youtube.com/c/NerdyRodent),
-    Github:
-    [github.com/nerdyrodent/AVeryComfyNerd](https://github.com/nerdyrodent/AVeryComfyNerd).
+  - Github: [github.com/nerdyrodent/AVeryComfyNerd](https://github.com/nerdyrodent/AVeryComfyNerd).
+- `[News][Workflows][Youtube: @sedetweiler][Discord: 610497187817979911]` (sedetweiler).
+  - Youtube: [youtube.com/@sedetweiler](https://www.youtube.com/@sedetweiler).
+  - Site: [sedetweiler.com](https://sedetweiler.com/)
 - `[Discord: 1076117621407223829]` (banodoco), discord, very active community,
   with lots of breaking new workflows.
   - Site: [banodoco.ai](https://banodoco.ai/), Github:
